@@ -6,3 +6,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to the transportation/shipping sector; for example, to optimize shipping routes to 
 minimize cost, fuel consumption, and time in transit.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines branches while preserving their history, but rebasing 'replays' commits from one branch onto 
+another and rewrites history destructively.
